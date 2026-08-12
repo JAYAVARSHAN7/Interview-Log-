@@ -53,5 +53,32 @@ Product Thinking
 **Developer Tools:** Git, GitHub, Linux, Docker, Postman
 **Testing:** JUnit, Jest, React Testing Library
 **AI/ML & Data:** NumPy, Pandas, Scikit-learn, TensorFlow, OpenCV, Plotly
+Fundamentals
+Patterns
+Number System:
+Prime
+Factors
+Count factors
+Perfect number
+Armstrong number
+Strong number
+GCD
+LCM
+Fibonacci
+Power
+Palindrome
+Reverse
+Digit frequency
+
+Nested Loops
+Arrays
+Strings 
+Core DSA
+DBMS 
+CN 
+OS 
+OOPS
+System Design 
+
 **IoT & Embedded:** ESP32, Raspberry Pi, SPS30, MEMS Sensors
 
