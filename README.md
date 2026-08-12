@@ -40,3 +40,18 @@ Feedback classification, anomaly detection, recommendation systems.
 Product Thinking
 
 "Why does this feature exist?"
+
+
+
+## TECHNICAL SKILLS
+
+**Languages:** Java, C++, Python, JavaScript, TypeScript, SQL
+**DSA & CS Fundamentals:** Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems, Computer Networks
+**Backend:** Spring Boot, Node.js, Express.js, REST APIs, JPA/Hibernate
+**Frontend:** React.js, HTML5, CSS3, Tailwind CSS
+**Databases:** PostgreSQL, MongoDB
+**Developer Tools:** Git, GitHub, Linux, Docker, Postman
+**Testing:** JUnit, Jest, React Testing Library
+**AI/ML & Data:** NumPy, Pandas, Scikit-learn, TensorFlow, OpenCV, Plotly
+**IoT & Embedded:** ESP32, Raspberry Pi, SPS30, MEMS Sensors
+
