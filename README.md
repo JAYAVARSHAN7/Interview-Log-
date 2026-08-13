@@ -80,5 +80,4 @@ OS
 OOPS
 System Design 
 
-**IoT & Embedded:** ESP32, Raspberry Pi, SPS30, MEMS Sensors
 
